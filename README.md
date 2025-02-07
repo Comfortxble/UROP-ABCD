@@ -16,9 +16,10 @@ I extracted all possible values of alpha available for each tree, then build a p
 ## Questionaire + fMRI
 Similar steps were taken to achieve the same results for psychosocial responses and fMRI data for both rsfMRI and sstfMRI.
 
-![image](https://github.com/user-attachments/assets/81f4d5c4-6a6f-436b-a35c-0e10df7f30ce)
+![image](https://github.com/user-attachments/assets/9cdc8373-88b0-4267-adea-8b453c58c8b5)
 
-![image](https://github.com/user-attachments/assets/6eb733e7-1f0b-4955-bf75-d8120e8615e9)
+![image](https://github.com/user-attachments/assets/fef35dc4-eb57-4cda-9e8a-e352f214e89d)
 
+![image](https://github.com/user-attachments/assets/be085522-5e81-4843-ad54-f7e77866b99d)
 
 
